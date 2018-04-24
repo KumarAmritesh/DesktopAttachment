@@ -1,4 +1,1 @@
-clear
 date
-pwd
-ls
